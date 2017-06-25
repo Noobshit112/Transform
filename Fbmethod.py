@@ -82,10 +82,10 @@ def Chrome_FB(link="https://www.facebook.com"):
 
 
 
-browser = Chrome_FB()
-
-inputbox()
-print("kuy")
-
-CSP(browser,"5730528021","Testing kub")
+#browser = Chrome_FB()
+#
+#inputbox()
+#print("kuy")
+#
+#CSP(browser,"5730528021","Testing kub")
 
